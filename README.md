@@ -1,10 +1,3 @@
-
-README.md
-+226
--1
-
-
-Original file line number	Original file line	Diff line number	Diff line change
 # Curso Microsserviços Java com Spring Boot e Spring Cloud
 #### Nelio Alves 
 https://www.udemy.com/user/nelio-alves
